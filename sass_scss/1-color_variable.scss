@@ -1,0 +1,8 @@
+/* Assings a color value using a variable to html tags */
+$cols: #3D3D3D;
+body {
+  color: $cols;
+}
+p {
+  color: $cols;
+}
