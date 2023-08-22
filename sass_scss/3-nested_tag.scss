@@ -1,0 +1,8 @@
+/* Uses nesting to assign padding and margin to elements */
+body {
+  padding: 0px;
+  margin: 0px;
+  p {
+    margin: 10px;
+  }
+}
