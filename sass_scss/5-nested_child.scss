@@ -1,0 +1,8 @@
+/* Uses nested styling and calsses to assign styles */
+
+body {
+  color: #3D3D3D;
+  > .red {
+    color: #FF0000;
+  }
+}
